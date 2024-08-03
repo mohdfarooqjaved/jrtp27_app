@@ -1,0 +1,13 @@
+2024-03-04 13:36:09,560 [main] INFO  com.example.demo.Application                       - Starting Application using Java 17.0.8.1 with PID 5288 (E:\Learning\Ashok-IT\Ashok-IT-21feb24-Springboot-MS-Angular and Devops Realtime Project-730am\Reatltime-Project-workspace\logging Project\01-SB-Logging-App\target\classes started by Faroo in E:\Learning\Ashok-IT\Ashok-IT-21feb24-Springboot-MS-Angular and Devops Realtime Project-730am\Reatltime-Project-workspace\logging Project\01-SB-Logging-App)
+2024-03-04 13:36:09,562 [main] INFO  com.example.demo.Application                       - No active profile set, falling back to 1 default profile: "default"
+2024-03-04 13:36:10,212 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8081 (http)
+2024-03-04 13:36:10,219 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8081"]
+2024-03-04 13:36:10,219 [main] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-03-04 13:36:10,220 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-04 13:36:10,257 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-03-04 13:36:10,258 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 657 ms
+2024-03-04 13:36:10,466 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8081"]
+2024-03-04 13:36:10,480 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8081 (http) with context path ''
+2024-03-04 13:36:10,485 [main] INFO  com.example.demo.Application                       - Started Application in 1.206 seconds (process running for 2.01)
+2024-03-04 16:03:32,947 [RMI TCP Connection(157)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-03-04 16:03:32,951 [RMI TCP Connection(157)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8081"]
